@@ -130,6 +130,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   Recursos terceiros:  **[EQ3](https://#)**  →  **[BW](https://#)** → **[SNS Ofertas](https://#)**
 -   GitBash:  **[GitBash](https://git-scm.com/about)**
 -   Editor: **[Intellij 2022.x](https://www.jetbrains.com/pt-br/idea/)**
+-   Checkstyle: **[CheckStyleXptoKotlin](https://#)**
 
 ## 🦸 Squad Garantias Pessoais
 
