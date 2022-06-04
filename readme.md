@@ -10,7 +10,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Funcionalidades](#-funcionalidades)
-   * [Release Notes](#-release-notes)
+   * [Release Note](#-release-notes)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
      * [Rodando o Backend (Local)](#user-content--rodando-o-backend)
@@ -38,7 +38,7 @@ Mussum Ipsum, cacilds vidis litro abertis. Quem num gosta di mim que vai caçá 
   - [ ] Feature 3
   - [ ] Feature 4
 
-## Release Note
+## Release Notes
 
 - Criação do projeto - JIRA-ISSUE
 - Correção bug SQS - JIRA-ISSUE
