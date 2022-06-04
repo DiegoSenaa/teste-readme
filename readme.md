@@ -38,11 +38,16 @@ Mussum Ipsum, cacilds vidis litro abertis. Quem num gosta di mim que vai caçá 
   - [ ] Feature 3
   - [ ] Feature 4
 
+---
+
 ## Release Notes
+<details>
+  <summary>Click to expand!</summary>
+  1. Correção bug xpto  - jira-issue - xx/xx/xx
+  2. Implementação da feature 123 - jira-issue - xx/xx/xx
+</details>
 
-- Criação do projeto - JIRA-ISSUE
-- Correção bug SQS - JIRA-ISSUE
-
+---
 
 ## 🚀 Como executar o projeto
 
