@@ -11,6 +11,7 @@ Tabela de conteúdos
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Funcionalidades](#-funcionalidades)
    * [Release Note](#-release-notes)
+   * [Estrutura do Projeto](#-estrutura-do-projeto)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
      * [Rodando o Backend (Local)](#user-content--rodando-o-backend)
@@ -43,8 +44,30 @@ Mussum Ipsum, cacilds vidis litro abertis. Quem num gosta di mim que vai caçá 
 ## Release Notes
 <details>
   <summary>Click to expand!</summary>
-  1. Correção bug xpto  - jira-issue - xx/xx/xx
-  2. Implementação da feature 123 - jira-issue - xx/xx/xx
+  1. Correção bug xpto  - jira-issue - xx/xx/xx<br>
+  2. Implementação da feature 123 - jira-issue - xx/xx/xx<br>
+</details>
+
+---
+
+## Estrutura do Projeto
+
+<details>
+  <summary>Click to expand!</summary>
+	<b>Adapters</b><br>
+-   configs<br>
+   1. SQSConfig - Responsável pela comunicação com o SQS<br> 	
+-   inbounds<br>
+   1.<br>	
+-   outbounds<br>
+   1.	<br>
+-   utils<br>
+   1.<br>
+<b>Application</b><br>
+-   core<br>
+   1.<br>
+-   ports<br>
+   1.<br>
 </details>
 
 ---
